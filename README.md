@@ -1,2 +1,3 @@
 # IanoBot
-An AI Chatbot.
+
+An AI Chatbot built on Gemini API.
